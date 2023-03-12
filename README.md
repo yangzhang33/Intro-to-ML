@@ -1,5 +1,5 @@
 # Intro-to-ML
-Projects of &lt;Practical Introduction to Machine Learning> in IP-Paris
+Projects of &lt;Practical Introduction to Machine Learning> in IP-Paris  
 Course of M2 Data Science done in Ecole Polytechnique
 
 # Content
